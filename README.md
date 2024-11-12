@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vũ Thanh Bình</h1>
+<h1 align="center">Hi 👋, I'm Vu Thanh Binh</h1>
 <h3 align="center">A fullstack developer from VietNam</h3>
 
 <h3 align="left">Connect with me:</h3>
